@@ -19,5 +19,9 @@ This (in my opinion) is crucial. I definitely have a hard time with â€œsuccessâ€
 3. Social Awareness: 3+2+2+1+1=9
 4. Relationship Management: 5+4+3+3+3=18
 
-Bias_Assessment:
-![](C:\Users\knott\OneDrive\Desktop\codeFellows\401d6\Prep-work\BiasSelfAssessment.png)
+### **Bias_Assessment:**
+![Bias Assessment](C:\Users\knott\OneDrive\Desktop\codeFellows\401d6\Prep-work\BiasSelfAssessment.png)
+
+Turns out "Empathy and Curiosity" is one of my lowest totals, which I don't think should not be together, I am an extremely curious person who happens to struggle with understanding other people's emotions. 
+
+In the coming weeks I will be focused on probably meaningful connections the most, however in the long term or "beyond" as you put it, I am going to try and work on my empathy. Curiosity is pretty much always getting work.
